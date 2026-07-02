@@ -1,5 +1,6 @@
-baseURL = 'https://meocon113.github.io/AWS.Minecraft-Security-Based/'
-canonifyURLs = false
+baseURL = "https://meocon113.github.io/AWS.Minecraft-Security-Based/"
+relativeURLs = false
+canonifyURLs = true
 defaultContentLanguage = "en"
 
 # Change the default theme to be use when building the site with Hugo
