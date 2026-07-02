@@ -1,5 +1,4 @@
-baseURL = "https://workshop-sample.awsfcaj.com/"
-relativeURLs = false
+baseURL = 'https://meocon113.github.io/AWS.Minecraft-Security-Based/'
 canonifyURLs = false
 defaultContentLanguage = "en"
 
